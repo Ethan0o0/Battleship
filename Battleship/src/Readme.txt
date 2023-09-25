@@ -1,4 +1,4 @@
-Ethan Yang, yang7341
+Ethan Yang
 
 How to Compile and Run:
     To run, run the Game class. Javac Game.java, Java Game.java
